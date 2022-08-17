@@ -1,0 +1,1 @@
+Olá, esse projeto tem como finalidade apresentar uma estrutura básica de CRUD (Create, Read, Update, Delete).
